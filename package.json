@@ -1,6 +1,6 @@
 {
   "name": "clay-unzip2",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Unzip cross-platform streaming API compatible with fstream and fs.ReadStream",
   "author": "Hlib Dmytriiev <glebdmitriew@gmail.com>",
   "maintainers": [
@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "fstream": "~0.1.21",
-    "pullstream": "git://github.com/claydotio/node-pullstream.git",
+    "clay-pullstream": "0.4.1",
     "binary": "~0.3.0",
     "readable-stream": "~1.0.0",
     "setimmediate": "~1.0.1",
